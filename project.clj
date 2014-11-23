@@ -1,4 +1,4 @@
-(defproject reagent-components "0.1.0"
+(defproject meta-x/reagent-components "0.1.0"
   :description "A set of reusable components for Reagent."
   :url "https://github.com/meta-x/reagent-components"
   :license {
